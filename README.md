@@ -4,9 +4,9 @@
 
 2. Displaying all the news fetch from Hacker news official API.
 
-3. Can toggle between Latest Stories, Best stories and Latest stories.
+3. Can toggle between Top Stories, Best stories and Latest stories.
 
-4. Can check the full story or news after click the perticular news.
+4. Can check the full story or news after clicking the perticular news.
 
 5. Can check the time, date and total numbers of comments for the particular news.
 
